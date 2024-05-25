@@ -1,2 +1,1 @@
-Get-InstalledModule -Name dbatools
-
+Get-InstalledModule 
