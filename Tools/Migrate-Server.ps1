@@ -1,0 +1,1 @@
+Backup-DbaDatabase -SqlInstance .\sql2022 -FilePath \\DiskStation\usbshare1\SQLBackups\ 
